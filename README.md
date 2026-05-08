@@ -1,8 +1,5 @@
 # Discovering Research Topics and Temporal Trends in arXiv Papers
 
-**Course:** DATA 7703 — Final Project (Semester 2, 2025)  
-**University:** University of Queensland  
-**Group 29:** Navaneetha Krishnan Shanmugam Pooranananthan · Aslam Packir Kadar Mydeen · Yuvaraja Murugan · Flora Taheri · Deepak Chakkungal Divakaran
 
 ---
 
